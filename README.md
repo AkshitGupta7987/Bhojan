@@ -1,15 +1,15 @@
 # List
 
 - [ ] soup
-- ~[ ] Taaji roti ghee lagi~
+- [x] ~~Taaji roti ghee lagi~~
 - [ ] Fried rice
-- ~[ ] Paneer chilly~
+- [x] ~~Paneer chilly~~
 - [ ] Bhindi
 - [ ] Mangodi
 - [ ] Everpie pizza
 - [ ] Momos
 - [ ] Choon
-- ~[ ] Daal chawal chooda sahit~
+- [x] ~~Daal chawal chooda sahit~~
 - [ ] Maggi
 - [ ] Veg. Biryani
 - [ ] Soyabari vaala pulao
@@ -19,7 +19,7 @@
 - [ ] Medu vada
 - [ ] Besan ke tal ke
 - [ ] Spring roll
-- ~[ ] White sauce pasta~
+- [x] ~~White sauce pasta~~
 - [ ] Red sauce pasta
 - [ ] Kuchh bhi aur
 - [ ] Bhaiyaaaaa aurkuch accha bhiiiiiiiiiiiiiiiiii
