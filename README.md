@@ -1,2 +1,25 @@
-# Bhojan
-Bhojan 
+# List
+
+- [ ] soup
+- ~[ ] Taaji roti ghee lagi~
+- [ ] Fried rice
+- ~[ ] Paneer chilly~
+- [ ] Bhindi
+- [ ] Mangodi
+- [ ] Everpie pizza
+- [ ] Momos
+- [ ] Choon
+- ~[ ] Daal chawal chooda sahit~
+- [ ] Maggi
+- [ ] Veg. Biryani
+- [ ] Soyabari vaala pulao
+- [ ] Chipre wale reliance mein milte hein jo bina naam ke
+- [ ] Bhoot chips
+- [ ] Gawarfali
+- [ ] Medu vada
+- [ ] Besan ke tal ke
+- [ ] Spring roll
+- ~[ ] White sauce pasta~
+- [ ] Red sauce pasta
+- [ ] Kuchh bhi aur
+- [ ] Bhaiyaaaaa aurkuch accha bhiiiiiiiiiiiiiiiiii
