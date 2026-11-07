@@ -21,4 +21,5 @@
 - [ ] Spring roll
 - [x] ~~White sauce pasta~~
 - [ ] Red sauce pasta
+- [ ] Baati
 - [ ] Kuchh bhi aur
