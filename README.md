@@ -6,9 +6,9 @@
 - [x] ~~Paneer chilly~~
 - [ ] Bhindi
 - [ ] Mangodi
-- [ ] Everpie pizza
+- [x] ~~Everpie pizza~~
 - [ ] Momos
-- [ ] Choon
+- [x] ~~Choon~~
 - [x] ~~Daal chawal chooda sahit~~
 - [ ] Maggi
 - [ ] Veg. Biryani
@@ -16,10 +16,9 @@
 - [ ] Chipre wale reliance mein milte hein jo bina naam ke
 - [ ] Bhoot chips
 - [ ] Gawarfali
-- [ ] Medu vada
+- [x] ~~Medu vada~~
 - [ ] Besan ke tal ke
 - [ ] Spring roll
 - [x] ~~White sauce pasta~~
 - [ ] Red sauce pasta
 - [ ] Kuchh bhi aur
-- [ ] Bhaiyaaaaa aurkuch accha bhiiiiiiiiiiiiiiiiii
