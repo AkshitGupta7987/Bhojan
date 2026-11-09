@@ -4,8 +4,8 @@
 - [x] ~~Taaji roti ghee lagi~~
 - [ ] Fried rice
 - [x] ~~Paneer chilly~~
-- [ ] Bhindi
-- [ ] Mangodi
+- [x] ~~Bhindi~~
+- [x] ~~Mangodi~~
 - [x] ~~Everpie pizza~~
 - [ ] Momos
 - [x] ~~Choon~~
@@ -15,11 +15,11 @@
 - [ ] Soyabari vaala pulao
 - [ ] Chipre wale reliance mein milte hein jo bina naam ke
 - [ ] Bhoot chips
-- [ ] Gawarfali
+- [x] ~~Gawarfali~~
 - [x] ~~Medu vada~~
 - [ ] Besan ke tal ke
 - [ ] Spring roll
 - [x] ~~White sauce pasta~~
 - [ ] Red sauce pasta
-- [ ] Baati
+- [x] ~~Baati~~
 - [ ] Kuchh bhi aur
