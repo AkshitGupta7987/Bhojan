@@ -7,7 +7,7 @@
 - [x] ~~Bhindi~~
 - [x] ~~Mangodi~~
 - [x] ~~Everpie pizza~~
-- [ ] Momos
+- [x] ~~Momos~~
 - [x] ~~Choon~~
 - [x] ~~Daal chawal chooda sahit~~
 - [ ] Maggi
