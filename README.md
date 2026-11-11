@@ -1,6 +1,5 @@
 # List
-
-- [ ] soup
+- [x] ~~soup~~
 - [x] ~~Taaji roti ghee lagi~~
 - [ ] Fried rice
 - [x] ~~Paneer chilly~~
@@ -11,15 +10,15 @@
 - [x] ~~Choon~~
 - [x] ~~Daal chawal chooda sahit~~
 - [ ] Maggi
-- [ ] Veg. Biryani
+- [x] ~~Veg. Biryani~~
 - [ ] Soyabari vaala pulao
 - [ ] Chipre wale reliance mein milte hein jo bina naam ke
 - [ ] Bhoot chips
 - [x] ~~Gawarfali~~
 - [x] ~~Medu vada~~
 - [ ] Besan ke tal ke
-- [ ] Spring roll
+- [x] ~~Spring roll~~
 - [x] ~~White sauce pasta~~
 - [ ] Red sauce pasta
 - [x] ~~Baati~~
-- [ ] Kuchh bhi aur
+- [x] ~~Crispy Veg~~
