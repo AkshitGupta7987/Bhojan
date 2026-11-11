@@ -19,6 +19,6 @@
 - [ ] Besan ke tal ke
 - [x] ~~Spring roll~~
 - [x] ~~White sauce pasta~~
-- [ ] Red sauce pasta
+- [x] ~~Red sauce pasta~~
 - [x] ~~Baati~~
 - [x] ~~Crispy Veg~~
